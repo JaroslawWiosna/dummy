@@ -1,1 +1,2 @@
 nowa linia
+nowa linia kolejnagit push -u origin mastergit push -u origin mastergit push -u origin mastergit push -u origin mastergit push -u origin mastergit push -u origin mastergit push -u origin mastergit push -u origin master!
