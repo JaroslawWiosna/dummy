@@ -1,8 +1,9 @@
 Italiano
-- Serowa
-- Pieczarkowa
-- Wegetariańska
-- Brokułowa
-- Atlantycka
-- Fetta
+
+- Serowa,
+- Pieczarkowa,
+- Wegetariańska,
+- Brokułowa,
+- Atlantycka,
+- Feta,
 - Dakota
