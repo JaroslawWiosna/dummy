@@ -1,8 +1,8 @@
 Italiano
-- serowa
-- pieczarkowa
-- weregarianska
-- brokułowa
-- atlantycka
-- fetta
-- dakota
+- Serowa
+- Pieczarkowa
+- Weregarianska
+- Brokułowa
+- Atlantycka
+- Fetta
+- Dakota
