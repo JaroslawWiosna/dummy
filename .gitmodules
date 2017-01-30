@@ -1,0 +1,3 @@
+[submodule "lib/dummy2"]
+	path = lib/dummy2
+	url = https://github.com/JaroslawWiosna/dummy2.git
